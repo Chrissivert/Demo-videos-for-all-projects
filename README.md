@@ -3,5 +3,5 @@ Demo videos for all projects that have been completed either personal projects o
 
 Demo videos:
 
-[Zombie-shooter][https://youtu.be/cBSTHTtsfBI}
-[Paths (choice-based game)[https://youtu.be/5Rr_P6tBHdY}
+* Zombie-shooter https://youtu.be/cBSTHTtsfBI
+* Paths (choice-based game https://youtu.be/5Rr_P6tBHdY
