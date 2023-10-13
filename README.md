@@ -6,4 +6,4 @@ I am unable to make changes to the README of repositories that were closed after
 Demo videos:
 
 * Zombie-shooter https://youtu.be/cBSTHTtsfBI
-* Paths (choice-based game https://youtu.be/5Rr_P6tBHdY
+* Paths (choice-based game) https://youtu.be/5Rr_P6tBHdY
